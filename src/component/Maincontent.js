@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+
 function Maincontent() {
   return (
     <React.Fragment>
@@ -20,7 +21,8 @@ function Maincontent() {
                 </a>
               </div>
               <div className="col-2">
-                <img src="images/image1.png" />
+              <img src='Images/image1.png' />
+              
               </div>
             </div>
           </div>

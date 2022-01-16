@@ -8,7 +8,7 @@ function content() {
             <div className="small-container">
         <div className="row row-2">
             <h2>All Products</h2>
-            <select name="" id="">
+            <select name="" id="" className="col-4">
                 <option value="default">Default Sorting</option>
                 <option value="by_price">Short by price</option>
                 <option value="by_popularity">Short by popularity</option>

@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 const navbar = () => {
   return (
-    <div>
+    <div className="header">
       <Navbar className="navbar-nav mr-auto">
         <Container className="navbar-nav mr-auto">
           <Navbar.Brand as={Link} to="/">Brand Logo</Navbar.Brand>
@@ -16,6 +16,7 @@ const navbar = () => {
             <Nav className="mr-auto">
               <Nav.Link as={Link} to="/About">About</Nav.Link>
               <Nav.Link as={Link} to="/Account">Account</Nav.Link>
+              <Nav.Link as={Link} to="/Products">Products</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
