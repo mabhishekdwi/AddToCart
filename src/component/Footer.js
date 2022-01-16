@@ -16,7 +16,7 @@ function footer() {
               </div>
             </div>
             <div className="footer-col-2">
-              <img src="images/logo-white.png" />
+              <img src="" />
               <p>
                 Our Purpose Is To Sustainably Make th Pleasure and Benefits of
                 Sports Accessible to the Many.
@@ -42,7 +42,7 @@ function footer() {
             </div>
           </div>
           <hr />
-          <p className="copyright"> Copytight 2022 - </p>
+          <p className="copyright"> Copytight 2022 -Abhishek Dwivedi </p>
         </div>
       </div>
 

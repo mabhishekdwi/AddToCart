@@ -30,7 +30,7 @@ function productdetails() {
             </div>
             <div className="col-2">
                 <p>Home / T-Shirt</p>
-                <h1>Red Printed T-Shirt by HRX</h1>
+                <h1>₹Custom Made Shoe by ME</h1>
                 <h4>$50.00</h4>
                 <select>
                     <option>Select Size</option>
@@ -44,7 +44,7 @@ function productdetails() {
                 <a href="" className="btn">Add To Cart</a>
                 <h3>Product Details <i className="fa fa-indent"></i></h3>
                 <br/>
-                <p>Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.
+                <p>Give your summer wardrobe a style upgrade with the ME Men's Active Shoe. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.
                 </p>
             </div>
         </div>
@@ -65,7 +65,7 @@ function productdetails() {
         <div className="row">
             <div className="col-4">
                 <img src="images/product-1.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -78,7 +78,7 @@ function productdetails() {
 
             <div className="col-4">
                 <img src="images/product-2.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -91,7 +91,7 @@ function productdetails() {
 
             <div className="col-4">
                 <img src="images/product-3.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -104,7 +104,7 @@ function productdetails() {
 
             <div className="col-4">
                 <img src="images/product-4.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>

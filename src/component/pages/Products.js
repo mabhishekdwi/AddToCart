@@ -20,7 +20,7 @@ function content() {
         <div className="row">
             <div className="col-4">
                 <img src="images/product-1.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -28,12 +28,12 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹300.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-2.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -41,12 +41,12 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹500.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-3.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -54,12 +54,12 @@ function content() {
                     <i className="fa fa-star-half-o"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹50.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-4.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -67,13 +67,13 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-half-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹500.00</p>
             </div>
         </div>
         <div className="row">
             <div className="col-4">
                 <img src="images/product-5.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -81,12 +81,12 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹500.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-6.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -94,12 +94,12 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹600.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-7.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -107,12 +107,12 @@ function content() {
                     <i className="fa fa-star-half-o"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹580.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-8.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -120,13 +120,13 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-half-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹450.00</p>
             </div>
         </div>
         <div className="row">
             <div className="col-4">
                 <img src="images/product-9.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -134,12 +134,12 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹750.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-10.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -147,12 +147,12 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹1150.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-11.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -160,12 +160,12 @@ function content() {
                     <i className="fa fa-star-half-o"></i>
                     <i className="fa fa-star-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹590.00</p>
             </div>
 
             <div className="col-4">
                 <img src="images/product-12.jpg"/>
-                <h4>Red Printed T-Shirt</h4>
+                <h4>₹Custom Made Shoe</h4>
                 <div className="rating">
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -173,7 +173,7 @@ function content() {
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star-half-o"></i>
                 </div>
-                <p>$50.00</p>
+                <p>₹501.00</p>
             </div>
         </div>
 

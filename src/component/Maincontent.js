@@ -55,7 +55,7 @@ function Maincontent() {
               <img src="images/product-1.jpg" />
             </a>
             <a href="products-details.html">
-              <h4>Red Printed T-Shirt</h4>
+              <h4>Brux Shoe</h4>
             </a>
             <div className="rating">
               <i className="fa fa-star"></i>
@@ -64,12 +64,12 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹520.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-2.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -77,12 +77,12 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹510.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-3.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -90,12 +90,12 @@ function Maincontent() {
               <i className="fa fa-star-half-o"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹150.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-4.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -103,7 +103,7 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-half-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹2250.00</p>
           </div>
         </div>
 
@@ -111,7 +111,7 @@ function Maincontent() {
         <div className="row">
           <div className="col-4">
             <img src="images/product-5.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -119,12 +119,12 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹450.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-6.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -132,12 +132,12 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹250.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-7.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -145,12 +145,12 @@ function Maincontent() {
               <i className="fa fa-star-half-o"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹350.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-8.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -158,13 +158,13 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-half-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹550.00</p>
           </div>
         </div>
         <div className="row">
           <div className="col-4">
             <img src="images/product-9.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -172,12 +172,12 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$60.00</p>
+            <p>₹260.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-10.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -185,12 +185,12 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹250.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-11.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -198,12 +198,12 @@ function Maincontent() {
               <i className="fa fa-star-half-o"></i>
               <i className="fa fa-star-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹450.00</p>
           </div>
 
           <div className="col-4">
             <img src="images/product-12.jpg" />
-            <h4>Red Printed T-Shirt</h4>
+            <h4>₹Custom Made Shoe</h4>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
@@ -211,7 +211,7 @@ function Maincontent() {
               <i className="fa fa-star"></i>
               <i className="fa fa-star-half-o"></i>
             </div>
-            <p>$50.00</p>
+            <p>₹550.00</p>
           </div>
         </div>
       </div>
@@ -221,14 +221,13 @@ function Maincontent() {
         <div className="small-container">
           <div className="row">
             <div className="col-2">
-              <img src="images/exclusive.png" className="offer-img" />
+              <img src="images/exclusive.png"  />
             </div>
             <div className="col-2">
-              <p>Exclusive Available on RedStore</p>
-              <h1>Smart Band 4</h1>
+              <p>Exclusive Available on Shoe Store</p>
+              <h1>Smart Shoes</h1>
               <small>
-                The Mi Smart Band 4 features a 39.9% larger (than Mi Band 3)
-                AMOLED color full-touch display with adjustable brightness, so
+                The shoes is made for you guys with its sole, brightness etc, so
                 everything is clear as can be.
               </small>
               <br />
