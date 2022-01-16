@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-function maincontent() {
+function Maincontent() {
   return (
     <React.Fragment>
       <div className="row">
@@ -328,4 +328,4 @@ function maincontent() {
   );
 }
 
-export default maincontent;
+export default Maincontent;
